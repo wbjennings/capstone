@@ -1,0 +1,13 @@
+[11:04:23] alt:V Server 14.20 (release)
+[11:04:23] Starting alt:V Server on 0.0.0.0:7788
+[11:04:23] Required server permissions:
+[11:04:23] Optional server permissions:
+[11:04:23] Starting HTTP server on 0.0.0.0:7788
+[11:04:23] Main thread started (ThreadId: 30228)
+[11:04:23] Colshape thread started (ThreadId: 18424)
+[11:04:23] EntityStreamer thread started (ThreadId: 30144)
+[11:04:23] Sync thread started (ThreadId: 30156)
+[11:04:23] Network thread started (ThreadId: 30108)
+[11:04:23] Console thread started (ThreadId: 22812)
+[11:04:23] Server started
+[11:06:23] Server shutdown
